@@ -6,7 +6,7 @@
 
 `$ npm install`
 
-edit lines 4-8
+In `index.js` edit lines 4-8
 
 `$ node index.js`
 
