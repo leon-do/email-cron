@@ -1,6 +1,6 @@
 <h1> Instructions </h1>
 
-`$ git clone git@github.com:leon-do/cron-email.git`
+`$ git clone git@github.com:leon-do/email-cron.git`
 
 `$ cd email-cron`
 
