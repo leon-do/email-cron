@@ -10,4 +10,6 @@ edit lines 4-8
 
 `$ node index.js`
 
-you should send an email every second (read cron documentation to adjust time interval)
+you should send an email every second 
+
+To adjust time interval, check this: https://www.npmjs.com/package/node-cron
