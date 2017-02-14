@@ -11,7 +11,6 @@ var text = "this is the body of the message"
 // =======================================================
 
 
-'use strict';
 const nodemailer = require('nodemailer');
 var cron = require('node-cron');
 
